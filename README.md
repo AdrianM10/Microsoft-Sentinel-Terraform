@@ -1,0 +1,1 @@
+Terraform template to deploy Microsoft Sentinel. 
